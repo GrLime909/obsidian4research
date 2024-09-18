@@ -1,0 +1,1 @@
+[[<% (await tp.file.create_new(tp.file.find_tfile("代码库模板"),tp.file.selection())).basename %>]]

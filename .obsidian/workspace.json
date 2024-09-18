@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5000a93082a1591d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c16a42e9c78291f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6af5201ac9c6e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主页.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9226108a611de301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c748ff37543f1b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f7c20d8d3b0d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f835101aa2bb3899",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef63464c7937b613",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5026054382324
+  },
+  "right": {
+    "id": "58f81d144f0fa8e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "df48939529255697",
+        "type": "tabs",
+        "dimension": 35.125,
+        "children": [
+          {
+            "id": "72035981cad78e64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f84192e8bc27ac1f",
+        "type": "tabs",
+        "dimension": 64.875,
+        "children": [
+          {
+            "id": "ade67d096f908703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md"
+              }
+            }
+          },
+          {
+            "id": "33e71d419332e03a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7547c72113237386",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "050ec0d3aa0f5131",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "workspaces:管理工作区布局": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "9226108a611de301",
+  "lastOpenFiles": [
+    "02-技能学习/Python编程/SSH远程连接.md",
+    "02-技能学习/Markdown语法.md",
+    "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+    "主页.md",
+    "03-科研笔记/论文想法.md",
+    "02-技能学习/Python编程/实用机器学习/00 数据获取与标注.md",
+    "02-技能学习/Python编程/实用机器学习/1 数据处理.md",
+    "02-技能学习/Python编程/实用机器学习/0 数据获取与标注.md",
+    "08-Assets/Attachments/Pasted image 20240913004409.png",
+    "03-科研笔记/小论文3——政策分析/小论文3.md",
+    "03-科研笔记/小论文1——灾害情景知识图谱/小论文1.md",
+    "小论文1.md",
+    "00. 图书馆.md",
+    "00-日程安排/日记/2024-09-12.md",
+    "02-技能学习/想法.md",
+    "02-技能学习/Python编程/实用机器学习",
+    "08-Assets/zotero",
+    "08-Assets/zotero/storage/65TETE83/熊励 等 - 2021 - 基于事件本体的疫情知识库构建策略.pdf",
+    "08-Assets/Templates/Zotero调用.md",
+    "08-Assets/zotero/cache/library",
+    "08-Assets/zotero/storage/65TETE83",
+    "02-技能学习/Python编程/深度学习",
+    "08-Assets/zotero/cache",
+    "08-Assets/zotero/better-bibtex.sqlite-journal",
+    "01-专业知识/1-术语库/Transformer.md",
+    "02-技能学习/Python编程/Gurobi使用.md",
+    "02-技能学习/Python编程/知识图谱学习.md",
+    "02-技能学习/Python编程/机器学习工具.md",
+    "08-Assets/Attachments/image_qukuailian1.png",
+    "02-技能学习/Python编程/Python常用操作.md",
+    "04-项目笔记/实习/T3实习.md",
+    "08-Assets/PDFs/实习——T3出行/场站治理-司乘定价策略.pdf",
+    "08-Assets/PDFs/实习——T3出行/姚盛祺SQL归档.pdf",
+    "04-项目笔记/实习/证书与可选岗位.md",
+    "03-科研笔记/小论文1——灾害情景知识图谱/参考文献/大数据环境下城市内涝灾害的情景维度模型构建.md",
+    "03-科研笔记/小论文1——灾害情景知识图谱/面向城市内涝演化分析的情景图谱构建.md",
+    "03-科研笔记/小论文1——灾害情景知识图谱/参考文献/(2020) 大数据环境下城市内涝灾害的情景维度模型构建.md",
+    "03-科研笔记/小论文3——政策分析/工具库.md",
+    "08-Assets/Attachments/Pasted image 20230402163536.png",
+    "08-Assets/Attachments/Pasted image 20240407235913.png",
+    "08-Assets/Attachments/Pasted image 20231209011902.png",
+    "08-Assets/Attachments/Pasted image 20230406234103.png",
+    "08-Assets/Attachments/Pasted image 20230407000045.png",
+    "08-Assets/Attachments/Pasted image 20230401190223.png",
+    "08-Assets/Attachments/Pasted image 20230330215551.png",
+    "08-Assets/Attachments/Pasted image 20230330145813.png",
+    "00-MOC/文献阅读白板.canvas",
+    "03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "00-MOC/未命名.canvas",
+    "00-MOC/未命名 3.canvas",
+    "00-MOC/未命名 2.canvas",
+    "00-MOC/未命名 1.canvas",
+    "obsidian_vault_template_for_graduate_student-main/03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "obsidian_vault_template_for_graduate_student-main/00-MOC/文献阅读白板.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

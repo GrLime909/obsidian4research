@@ -1,0 +1,22 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "accentColor": "#8e668f",
+  "textFontFamily": "Adobe 宋体 Std,Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "translucency": false,
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "【AnuPpuccin】notion-cards",
+    "【AnuPpuccin】minimal-cards",
+    "【AnuPpuccin】its-frontmatter",
+    "【AD优化】admonitions",
+    "homepage.setting",
+    "【分栏支持】admonition-col2-col3-flex",
+    "yaozhuwa@CSS",
+    "width"
+  ],
+  "baseFontSizeAction": true,
+  "showViewHeader": false
+}
