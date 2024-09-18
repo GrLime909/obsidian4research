@@ -2,7 +2,9 @@
 自用obsidian模板库，以及与zotero的联动
 
 Obsidian需要安装的插件，除remote-save之外全部上传
+
 Zotero需要安装 Better Notes for Zotero
+
 Better Notes for Zotero的模板为
 ```
 [Item]PaperNote
