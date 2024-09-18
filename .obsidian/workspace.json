@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "file": "06-影音阅读/书籍/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md"
+                "file": "06-影音阅读/书籍/未命名.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "file": "06-影音阅读/书籍/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
+                "file": "06-影音阅读/书籍/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,14 +168,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
       "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false
     }
   },
   "active": "9226108a611de301",
   "lastOpenFiles": [
+    "06-影音阅读/电影/未命名.md",
+    "06-影音阅读/书籍/未命名.md",
+    "06-影音阅读/播客/未命名.md",
+    "01-专业知识/2-代码库/ARIMA.md",
+    "03-科研笔记/小论文1/论文思路.md",
+    "03-科研笔记/会议/水灾害年会.md",
+    "04-项目笔记/实习/实习总结.md",
     "02-技能学习/Python编程/SSH远程连接.md",
     "02-技能学习/Markdown语法.md",
     "02-技能学习/Python编程/实用机器学习/01 数据处理.md",
@@ -205,15 +211,8 @@
     "02-技能学习/Python编程/知识图谱学习.md",
     "02-技能学习/Python编程/机器学习工具.md",
     "08-Assets/Attachments/image_qukuailian1.png",
-    "02-技能学习/Python编程/Python常用操作.md",
-    "04-项目笔记/实习/T3实习.md",
     "08-Assets/PDFs/实习——T3出行/场站治理-司乘定价策略.pdf",
     "08-Assets/PDFs/实习——T3出行/姚盛祺SQL归档.pdf",
-    "04-项目笔记/实习/证书与可选岗位.md",
-    "03-科研笔记/小论文1——灾害情景知识图谱/参考文献/大数据环境下城市内涝灾害的情景维度模型构建.md",
-    "03-科研笔记/小论文1——灾害情景知识图谱/面向城市内涝演化分析的情景图谱构建.md",
-    "03-科研笔记/小论文1——灾害情景知识图谱/参考文献/(2020) 大数据环境下城市内涝灾害的情景维度模型构建.md",
-    "03-科研笔记/小论文3——政策分析/工具库.md",
     "08-Assets/Attachments/Pasted image 20230402163536.png",
     "08-Assets/Attachments/Pasted image 20240407235913.png",
     "08-Assets/Attachments/Pasted image 20231209011902.png",
